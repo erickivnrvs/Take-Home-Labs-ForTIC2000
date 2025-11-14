@@ -1,11 +1,12 @@
 # Take-Home-Labs-ForTIC2000
 
-¡Bienvenido! Este es el repositorio principal para mi proyecto.
+Welcome to the Take Home Labs for the Texas Instruments C2000 Delfino F28379D Launchpad Development Kit
 
-Este proyecto incluye tanto el código fuente como la documentación de desarrollo y aprendizaje.
+# Introduction
+The objective of this project is to use and implement the TI C2000 Launchpad Development Kit as a data acquisition board, as well as using Matlab/Simulink to both program the board and perform different tasks with the acquired data (for example, real time data plotting).
 
-## 📚 Documentación y Blog
+## 📚 Documentation and Blog
 
-Toda la documentación, apuntes y artículos de blog del proceso de desarrollo se encuentran en la carpeta `/docs`.
+All the documentation and relevant information regarding this project development can be found under the `/docs` section
 
-**[Haz clic aquí para leer el blog del proyecto](./docs/INDEX.md)**
+**[Click here to read the project's blog](./docs/INDEX.md)**
