@@ -1,7 +1,7 @@
-# Blog y Documentación del Proyecto
+# Blog and project documentation
 
-Aquí encontrarás el registro de todo el proceso de desarrollo.
+All information regarding the project development can be found here
 
-## Artículos
+## Articles 
 
-* [01 - Configuración Inicial del Proyecto](./01-configuracion.md)
+* [01 - Getting started with the C2000 Delfino F28379D Launchpad Development Kit](./01-GettingStarted.md)
