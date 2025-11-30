@@ -1,4 +1,4 @@
-# 02 - Setting up tools
+# 02 - Setting up tools (For Linux)
 
 ## Getting started
 In this section we'll get started by setting up all the software required to program the board. The objective is to program our first "Hello World" (Blinking an on-board LED).

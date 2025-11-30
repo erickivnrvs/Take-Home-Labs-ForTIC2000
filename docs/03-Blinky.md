@@ -1,4 +1,4 @@
-# Training 01 - Blinky
+# Training 01 - Blinky (For Linux)
 Once CCS and C2000Ware are set up, the very first project is ready to be done!.
 The purpose of this training is to get to know the CCS Workflow, as well as veryfying the set up was done correctly.
 
