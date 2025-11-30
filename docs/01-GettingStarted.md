@@ -1,6 +1,6 @@
 # 01 - Getting started with the C2000 Delfino F28379D Launchpad Development Kit
 
-## About the board
+## 🛠️ About the board
 "LaunchPad" is the physical development board. We can think of it as a whole system that supports and allows us to interact with the microcontroller on board.
 ## Characteristics
 * Low cost: Low cost board for the Delfino F2837xD microcontrollers. Includes the required hardware and software to begin developing applications.
@@ -10,7 +10,7 @@
 * Easy communication: Besides JTAG, the USB connection allows to communicate with the board under a serial protocol(UART).
 
 
-## About the Microcontroller: TMS320F28379D
+## 🛠️ About the Microcontroller: TMS320F28379D
 
 
 * Proccesing architecture: Dual Core Architecture. Integrates two C28x CPU of 32 bits, each one runnning at 200MHz. This allows the board to split tasks between cores.
@@ -27,12 +27,15 @@
 
 * Communicaction: Includes standard protocols for communication and interaction with external devices
 
-    USB 2.0 
+    ** USB 2.0 
 
-    CAN
+    ** CAN
 
-    SPI
+    ** SPI
 
-    I2C
+    ** I2C
 
-    SCI (UART)
+    ** SCI (UART)
+
+## 🛠️ Matlab/Simulink Integration
+One of the most powerful characteristics of this board is its capabilities to be integrated with control systems through Matlab/Simulink. Due to the cores integrated on the board's CPU, we can implement fast processing operations (such as mathematical operations), while also running other tasks parallel to them. This will allow us to integrate this project as accurately as possible, while trying to minimize data loss. 
