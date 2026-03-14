@@ -11,9 +11,9 @@ This project is aimed at using the C2000 Launchpad Development kit, as well as M
 ## About this repository
 The purpose of this repository is to keep all relevant information and documentation into a single place for anyone interested.
 To better understand all the underlying theory of this project the following previous knwoledge is advised:
-* Usage of Linux as OS and terminal commands
+* Usage of Terminal Windows
 * Microcontrollers architecture and programming
-* C/C++ and Python programming
+* C/C++ programming
 * Use of hardware and development boards
 * Matlab scripting and Simulink modelling
 * Control Theory key concepts
